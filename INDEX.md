@@ -8,11 +8,12 @@
 |---|---|---|---|---|---|---|
 | [50-cases/2026-11-15-cmd-submission-EXAMPLE.md](50-cases/2026-11-15-cmd-submission-EXAMPLE.md) | 2026-11-15 | cmd-submission | both | self | 已解决 | 推理偶发超时，doorbell 已写但完成中断未到（格式示例，请替换后删除本文件） |
 
-## 知识条目（4 条）
+## 知识条目（5 条）
 
 | 条目 | scope | platform | 日期 |
 |---|---|---|---|
 | [10-common/debug-playbook.md](10-common/debug-playbook.md) |  |  |  |
 | [10-common/os-parity.md](10-common/os-parity.md) |  |  |  |
+| [20-linux/cmd-submission.md](20-linux/cmd-submission.md) | linux |  | 2026-11-15 |
 | [70-gaps.md](70-gaps.md) |  |  |  |
 | [GLOSSARY.md](GLOSSARY.md) |  |  |  |
