@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | [50-cases/2026-11-15-cmd-submission-EXAMPLE.md](50-cases/2026-11-15-cmd-submission-EXAMPLE.md) | 2026-11-15 | cmd-submission | both | self | 已解决 | 推理偶发超时，doorbell 已写但完成中断未到（格式示例，请替换后删除本文件） |
 
-## 知识条目（10 条）
+## 知识条目（11 条）
 
 | 条目 | scope | platform | 日期 |
 |---|---|---|---|
@@ -16,6 +16,7 @@
 | [10-common/os-parity.md](10-common/os-parity.md) |  |  |  |
 | [20-linux/cmd-submission.md](20-linux/cmd-submission.md) | linux |  | 2026-11-15 |
 | [70-gaps.md](70-gaps.md) |  |  |  |
+| [90-learn/plan.md](90-learn/plan.md) |  |  |  |
 | [90-learn/quiz/accel-framework.md](90-learn/quiz/accel-framework.md) |  |  |  |
 | [90-learn/quiz/oss-driver-cases.md](90-learn/quiz/oss-driver-cases.md) |  |  |  |
 | [90-learn/quiz/submit-queue.md](90-learn/quiz/submit-queue.md) |  |  |  |
